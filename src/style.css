@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Space Mono';
+    src: url('./assets/fonts/SpaceMono-Regular.ttf');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Space Mono';
+    src: url('./assets/fonts/SpaceMono-Bold.ttf');
+    font-style: normal;
+    font-weight: 700;
+}
+
+body, html{
+    font-family: 'Space Mono', monospace;
+    background-color: #c5e4e7;
+}
