@@ -54,7 +54,9 @@
       class="bg-veryLightGrayCyan w-full flex rounded-md border-2"
       :class="boxOutline">
       <div class="w-2/12 flex items-center pl-4">
-        <img src="../assets/images/icon-person.svg" />
+        <img
+          src="../assets/images/icon-person.svg"
+          alt="person icon" />
       </div>
       <input
         type="number"

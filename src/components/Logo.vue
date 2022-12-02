@@ -4,6 +4,6 @@
   <div class="grid place-content-center my-12">
     <img
       src="../assets/images/logo.svg"
-      alt="" />
+      alt="logo" />
   </div>
 </template>
